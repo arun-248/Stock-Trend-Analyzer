@@ -5,6 +5,11 @@
 This project is an AI-powered application designed to function as an equity research analysis bot. Its primary purpose is to take multiple news articles or documents and provide accurate, synthesized answers to user questions, acting as a smart, on-demand research tool.
 
 ---
+## 📸 Project Screenshot
+
+<img src="Stock_Trend_Analyzer.jpg" alt="Stock Trend Analyzer" width="800"/>
+
+---
 
 ### Project Architecture and Importance
 
